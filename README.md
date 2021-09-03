@@ -5,6 +5,6 @@ Any engineer or professional interested in programming will normally work with s
 
 Therefore this files are not intended as a beginner's guide, but more like a quick reference for consulting.
 
-Concepts and content is divided into begin, medium, advanced.
+Concepts and content are divided into beginner, medium, advanced.
 
 Some of this content is based on the python courses from OSL (UGR) https://github.com/oslugr and CEMED (UGR).
